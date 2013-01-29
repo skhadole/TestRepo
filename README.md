@@ -6,6 +6,4 @@ Testing started
 
 In progress...... 
 
-
-
-Teamcity
+Teamcity Jira testing
