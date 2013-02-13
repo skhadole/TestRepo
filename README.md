@@ -4,7 +4,7 @@ TestRepo
 TestRepo
 Testing started
 
-In progress.....1234
+In progress.....
 
 Teamcity Jira testing. end
 
