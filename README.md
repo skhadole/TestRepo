@@ -8,6 +8,3 @@ In progress...
 
 Teamcity Jira testing. 
 
-
-
-
